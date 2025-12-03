@@ -10,9 +10,9 @@ class UserDevController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function login()
     {
-        //
+        return view('pages.auth.Login');
     }
 
     /**
@@ -36,7 +36,7 @@ class UserDevController extends Controller
      */
     public function show(UserDev $userDev)
     {
-        //
+        return view('pages.backend.Dashboard');
     }
 
     /**
