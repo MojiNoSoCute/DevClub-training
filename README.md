@@ -15,3 +15,9 @@ run the project
 ---
 
 database design : https://drive.google.com/file/d/1G6vUrOJRui4agFDNQGVMOxzqnCUrCjpF/view?usp=sharing
+
+---
+
+to remind
+
+``php artisan make:model User -mcr``
