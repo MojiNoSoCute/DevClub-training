@@ -20,4 +20,4 @@ database design : https://drive.google.com/file/d/1G6vUrOJRui4agFDNQGVMOxzqnCUrC
 
 to remind
 
-``php artisan make:model User -mcr``
+``php artisan make:model UserDev -mcr``
